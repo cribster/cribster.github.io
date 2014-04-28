@@ -1,4 +1,4 @@
-cribster.github.io
+cribster
 ==================
 
-A web app for creating jam packed cheat/crib sheets
+A web application built using AngularJS for creating exam crib/cheat sheets
