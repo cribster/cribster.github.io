@@ -1,3 +1,3 @@
-app.controller("MyController", function($scope) {
-    $scope.alex = "Welcome to the jungle";
+app.controller("MainController", function($scope) {
+    $scope.input = "";
 });
